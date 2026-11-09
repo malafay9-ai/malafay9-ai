@@ -1,17 +1,38 @@
-# Hi, I'm Malaika
+# Malaika Mukhtar
+### Web developer · React & Next.js · Node.js · WordPress & Shopify
 
-I build and improve websites, web apps and APIs.
+I help turn feature requests into working websites and web apps, with clear updates and code you can review.
 
-My work includes React, Next.js, Node.js, Python, WordPress and Shopify. I focus on clear updates, maintainable changes and testing the user journey before delivery.
+**[Explore my demo ↓](https://github.com/malafay9-ai/feature-board-demo) · [Review a sample PR →](https://github.com/malafay9-ai/feature-board-demo/pull/1)**
 
-## Selected work
+---
 
-- **Creventa:** website redesign and frontend implementation. Client source code is not published here.
-- **[Feature Board demo](https://github.com/malafay9-ai/feature-board-demo):** a responsive board and Node.js API with integration tests.
-- **[Sample PR: search and status filtering](https://github.com/malafay9-ai/feature-board-demo/pull/1):** a focused feature with implementation details and verification notes.
+## Featured project · Feature Board
 
-## How I work
+A responsive feature-request board with a Node.js API. Search across requests, combine filters by status, and reset the view.
 
-Understand the task → implement on a branch → review and test → share a PR with a clear summary and visual evidence where relevant.
+<a href="https://github.com/malafay9-ai/feature-board-demo/pull/1"><img src="https://raw.githubusercontent.com/malafay9-ai/feature-board-demo/a163e1fb167f78605a187f58d234346aefa0be8c/docs/desktop.png" alt="Feature Board demo with search, status filters and four workflow columns" width="900"></a>
 
-Samples are labelled as demos, with their limitations and AI assistance explained in each repository.
+| Implementation | Verification | Review |
+| --- | --- | --- |
+| JavaScript, CSS and Node.js API | 5 API tests plus browser checks | Focused PR with desktop and mobile screenshots |
+
+[Source & setup](https://github.com/malafay9-ai/feature-board-demo) · [Feature implementation](https://github.com/malafay9-ai/feature-board-demo/pull/1) · [Passed verification run](https://github.com/malafay9-ai/feature-board-demo/actions/runs/42643467442)
+
+*Portfolio demo with fictional data, prepared with ChatGPT/Codex assistance. Scope and limitations are documented in the repository.*
+
+## Client work
+
+**Creventa website redesign** — frontend implementation, responsive layouts, typography and interactive sections. Client source code stays private.
+
+## What I can help with
+
+- Web app features and API integrations
+- WordPress and Shopify improvements
+- Responsive interfaces and bug fixes
+
+## Working together
+
+Agree on the task → implement on a branch → review and test → deliver a clear PR with screenshots where relevant.
+
+I value straightforward communication, maintainable changes and testing the customer journey.
