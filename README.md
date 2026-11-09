@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Malaika
 
-<!--
-**malafay9-ai/malafay9-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and improve websites, web apps and APIs.
 
-Here are some ideas to get you started:
+My work includes React, Next.js, Node.js, Python, WordPress and Shopify. I focus on clear updates, maintainable changes and testing the user journey before delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **Creventa:** website redesign and frontend implementation. Client source code is not published here.
+- **Portfolio samples:** small projects with documented setup steps, tests and reviewable pull requests.
+
+## How I work
+
+Understand the task → implement on a branch → review and test → share a PR with a clear summary and visual evidence where relevant.
+
+New samples are labelled as demos, with their limitations explained in each repository.
